@@ -1,6 +1,6 @@
 # Stepper Motor Speed Record
 
-You can see it in action in my video here (under progress): https://www.youtube.com/channel/UCbziPtOjqu3OHrNleWjq9dg?view_as=subscriber
+You can see it in action in my video here (under progress, but until then watch some flowers =3): https://www.youtube.com/channel/UCbziPtOjqu3OHrNleWjq9dg?view_as=subscriber
 
  With these codes you can accelerate a NEMA 17 stepper motor above 9000 RPM.
  The motor runs in full-step mode.
