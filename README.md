@@ -4,11 +4,12 @@ You can see it in action in my video here (under progress): https://www.youtube.
 
  With these codes you can accelerate a NEMA 17 stepper motor above 9000 RPM.
  The motor runs in full-step mode.
+ 
  The minimum time between two steps in my case is 16 microsec.
 
--The 'Stpm_acceleration' code only accelerates the motor, than runs on that speed.
+- The 'Stpm_acceleration' code only accelerates the motor, than runs on that speed.
 
--The 'Stpm_acceleration-deacceleration', accelerates the motor, than deaccelerates, to the given speed, than start it again forever.
+- The 'Stpm_acceleration-deacceleration', accelerates the motor, than deaccelerates, to the given speed, than start it again forever.
 
 Electrical components I used:
 
